@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/kbcgame/static/css/main.17eb7768.css",
+    "main.js": "/github.io/kbcgame/static/js/main.a7a8c514.js",
+    "index.html": "/github.io/kbcgame/index.html",
+    "main.17eb7768.css.map": "/github.io/kbcgame/static/css/main.17eb7768.css.map",
+    "main.a7a8c514.js.map": "/github.io/kbcgame/static/js/main.a7a8c514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17eb7768.css",
+    "static/js/main.a7a8c514.js"
+  ]
+}
