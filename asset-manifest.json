@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/k/static/css/main.17eb7768.css",
-    "main.js": "/github.io/k/static/js/main.a7a8c514.js",
-    "index.html": "/github.io/k/index.html",
-    "main.17eb7768.css.map": "/github.io/k/static/css/main.17eb7768.css.map",
-    "main.a7a8c514.js.map": "/github.io/k/static/js/main.a7a8c514.js.map"
+    "main.css": "/github.io/game/static/css/main.17eb7768.css",
+    "main.js": "/github.io/game/static/js/main.a7a8c514.js",
+    "index.html": "/github.io/game/index.html",
+    "main.17eb7768.css.map": "/github.io/game/static/css/main.17eb7768.css.map",
+    "main.a7a8c514.js.map": "/github.io/game/static/js/main.a7a8c514.js.map"
   },
   "entrypoints": [
     "static/css/main.17eb7768.css",
